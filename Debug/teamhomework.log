@@ -1,8 +1,0 @@
-﻿  Merger_sort.c
-  Selection_sort.c
-  main.c
-C:\Users\Professional\Desktop\Projects\teamhomework\main.c(14,1): warning C4005: ERROR: изменение макроопределения
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(118): message : см. предыдущее определение "ERROR"
-C:\Users\Professional\Desktop\Projects\teamhomework\main.c(31,18): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Создание кода...
-  teamhomework.vcxproj -> C:\Users\Professional\Desktop\Projects\teamhomework\Debug\teamhomework.exe
