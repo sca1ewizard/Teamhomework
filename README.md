@@ -3,7 +3,7 @@
  
  Here we explored selection and merge sorting algorithms. 
  
- Completed: 
+ Completed by: 
  
     1. Sorokin Sergey - team liader
     2. Gabelaya Georgy - programmer
