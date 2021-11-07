@@ -5,7 +5,7 @@
  
  Completed by: 
  
-    1. Sorokin Sergey - team liader
+    1. Sorokin Sergey - team liader and some programmer
     2. Gabelaya Georgy - programmer
     3. Ryazanov Vladislav - charts specialist 
     4. Spiridonova Anna - responsible for the presentation
